@@ -14,7 +14,7 @@ College student
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.icons8.com/?size=100&id=doXmogC0imya&format=png&color=000000"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL_I5_12450H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.icons8.com/?size=100&id=doXmogC0imya&format=png&color=000000"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL_I5_12450H-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
 
 ![Ravi visvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravivisvesh&theme=dark&show_icons=true&&hide=issues,contribs)
 
